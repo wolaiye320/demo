@@ -1,0 +1,640 @@
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 68 @ 1555400544110 for job b4d098b751462a6fcee736026aa70af2.
+INFO flink-akka.actor.default-dispatcher-71 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 68 for job b4d098b751462a6fcee736026aa70af2 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 69 @ 1555400549110 for job b4d098b751462a6fcee736026aa70af2.
+INFO flink-akka.actor.default-dispatcher-72 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 69 for job b4d098b751462a6fcee736026aa70af2 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 70 @ 1555400554109 for job b4d098b751462a6fcee736026aa70af2.
+INFO flink-akka.actor.default-dispatcher-73 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 70 for job b4d098b751462a6fcee736026aa70af2 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 71 @ 1555400559109 for job b4d098b751462a6fcee736026aa70af2.
+INFO flink-akka.actor.default-dispatcher-74 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 71 for job b4d098b751462a6fcee736026aa70af2 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 72 @ 1555400564109 for job b4d098b751462a6fcee736026aa70af2.
+INFO flink-akka.actor.default-dispatcher-74 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 72 for job b4d098b751462a6fcee736026aa70af2 (14431 bytes in 6 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 73 @ 1555400569109 for job b4d098b751462a6fcee736026aa70af2.
+INFO flink-akka.actor.default-dispatcher-76 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 73 for job b4d098b751462a6fcee736026aa70af2 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 74 @ 1555400574109 for job b4d098b751462a6fcee736026aa70af2.
+INFO flink-akka.actor.default-dispatcher-76 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 74 for job b4d098b751462a6fcee736026aa70af2 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 75 @ 1555400579110 for job b4d098b751462a6fcee736026aa70af2.
+INFO flink-akka.actor.default-dispatcher-78 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 75 for job b4d098b751462a6fcee736026aa70af2 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 76 @ 1555400584110 for job b4d098b751462a6fcee736026aa70af2.
+INFO flink-akka.actor.default-dispatcher-78 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 76 for job b4d098b751462a6fcee736026aa70af2 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 77 @ 1555400589109 for job b4d098b751462a6fcee736026aa70af2.
+INFO flink-akka.actor.default-dispatcher-78 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 77 for job b4d098b751462a6fcee736026aa70af2 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 78 @ 1555400594109 for job b4d098b751462a6fcee736026aa70af2.
+INFO flink-akka.actor.default-dispatcher-81 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 78 for job b4d098b751462a6fcee736026aa70af2 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 79 @ 1555400599109 for job b4d098b751462a6fcee736026aa70af2.
+INFO flink-akka.actor.default-dispatcher-82 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 79 for job b4d098b751462a6fcee736026aa70af2 (14431 bytes in 3 ms).
+INFO TaskExecutorLocalStateStoresManager shutdown hook org.apache.flink.runtime.state.TaskExecutorLocalStateStoresManager - Shutting down TaskExecutorLocalStateStoresManager.
+INFO TransientBlobCache shutdown hook org.apache.flink.runtime.blob.TransientBlobCache - Shutting down BLOB cache
+INFO PermanentBlobCache shutdown hook org.apache.flink.runtime.blob.PermanentBlobCache - Shutting down BLOB cache
+INFO BlobServer shutdown hook org.apache.flink.runtime.blob.BlobServer - Stopped BLOB server at 0.0.0.0:38898
+INFO IOManagerAsync shutdown hook org.apache.flink.runtime.io.disk.iomanager.IOManager - I/O manager removed spill file directory /tmp/flink-io-6ae92398-409c-4bb3-9534-b6069297d0e5
+INFO main org.apache.flink.streaming.api.environment.LocalStreamEnvironment - Running job on local embedded Flink mini cluster
+INFO main org.apache.flink.runtime.minicluster.MiniCluster - Starting Flink Mini Cluster
+INFO main org.apache.flink.runtime.minicluster.MiniCluster - Starting Metrics Registry
+INFO main org.apache.flink.runtime.metrics.MetricRegistryImpl - No metrics reporter configured, no metrics will be exposed/reported.
+INFO main org.apache.flink.runtime.minicluster.MiniCluster - Starting RPC Service(s)
+INFO flink-akka.actor.default-dispatcher-2 akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+INFO main org.apache.flink.runtime.minicluster.MiniCluster - Trying to start actor system at :0
+INFO flink-metrics-2 akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+INFO flink-metrics-2 akka.remote.Remoting - Starting remoting
+INFO main org.apache.flink.runtime.minicluster.MiniCluster - Actor system started at akka.tcp://flink-metrics@192.168.136.131:57353
+INFO main org.apache.flink.runtime.minicluster.MiniCluster - Starting high-availability services
+INFO flink-metrics-2 akka.remote.Remoting - Remoting started; listening on addresses :[akka.tcp://flink-metrics@192.168.136.131:57353]
+INFO main org.apache.flink.runtime.blob.BlobServer - Created BLOB server storage directory /tmp/blobStore-c6f24fd7-14e8-4991-87fb-d27479482d8e
+INFO main org.apache.flink.runtime.blob.BlobServer - Started BLOB server at 0.0.0.0:52199 - max concurrent requests: 50 - max backlog: 1000
+INFO main org.apache.flink.runtime.minicluster.MiniCluster - Starting ResourceManger
+INFO main org.apache.flink.runtime.rpc.akka.AkkaRpcService - Starting RPC endpoint for org.apache.flink.runtime.resourcemanager.StandaloneResourceManager at akka://flink/user/resourcemanager_b4426da7-d245-4dad-9e31-b92d4b8f80bc .
+INFO main org.apache.flink.runtime.highavailability.nonha.embedded.EmbeddedLeaderService - Proposing leadership to contender org.apache.flink.runtime.resourcemanager.StandaloneResourceManager@2b43529a @ akka://flink/user/resourcemanager_b4426da7-d245-4dad-9e31-b92d4b8f80bc
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.resourcemanager.StandaloneResourceManager - ResourceManager akka://flink/user/resourcemanager_b4426da7-d245-4dad-9e31-b92d4b8f80bc was granted leadership with fencing token a8ad3f2eba4a9abbe176abcbe52741fe
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.resourcemanager.slotmanager.SlotManager - Starting the SlotManager.
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.highavailability.nonha.embedded.EmbeddedLeaderService - Received confirmation of leadership for leader akka://flink/user/resourcemanager_b4426da7-d245-4dad-9e31-b92d4b8f80bc , session=e176abcb-e527-41fe-a8ad-3f2eba4a9abb
+INFO main org.apache.flink.runtime.blob.PermanentBlobCache - Created BLOB cache storage directory /tmp/blobStore-ebe524fd-fbd2-41b9-80d2-fd3ac933b719
+INFO main org.apache.flink.runtime.blob.TransientBlobCache - Created BLOB cache storage directory /tmp/blobStore-7ef0ebc4-657d-4919-a6ea-f5ae2e9d956f
+INFO main org.apache.flink.runtime.minicluster.MiniCluster - Starting 1 TaskManger(s)
+INFO main org.apache.flink.runtime.taskexecutor.TaskManagerRunner - Starting TaskManager with ResourceID: 05159f0a-572d-49d9-a2f6-f82bd70f8cde
+INFO main org.apache.flink.runtime.taskexecutor.TaskManagerServices - Temporary file directory '/tmp': total 35 GB, usable 4 GB (11.43% usable)
+INFO main org.apache.flink.runtime.io.network.buffer.NetworkBufferPool - Allocated 420 MB for network buffer pool (number of memory segments: 13457, bytes per segment: 32768).
+INFO main org.apache.flink.runtime.query.QueryableStateUtils - Could not load Queryable State Client Proxy. Probable reason: flink-queryable-state-runtime is not in the classpath. To enable Queryable State, please move the flink-queryable-state-runtime jar from the opt to the lib folder.
+INFO main org.apache.flink.runtime.query.QueryableStateUtils - Could not load Queryable State Server. Probable reason: flink-queryable-state-runtime is not in the classpath. To enable Queryable State, please move the flink-queryable-state-runtime jar from the opt to the lib folder.
+INFO main org.apache.flink.runtime.io.network.NetworkEnvironment - Starting the network environment and its components.
+INFO main org.apache.flink.runtime.taskexecutor.TaskManagerServices - Limiting managed memory to 0.7 of the currently free heap space (2644 MB), memory will be allocated lazily.
+INFO main org.apache.flink.runtime.io.disk.iomanager.IOManager - I/O manager uses directory /tmp/flink-io-4582abd4-fdf4-4d9d-8522-7a62a1675f17 for spill files.
+INFO main org.apache.flink.runtime.taskexecutor.TaskManagerConfiguration - Messages have a max timeout of 10000 ms
+INFO main org.apache.flink.runtime.rpc.akka.AkkaRpcService - Starting RPC endpoint for org.apache.flink.runtime.taskexecutor.TaskExecutor at akka://flink/user/taskmanager_0 .
+INFO main org.apache.flink.runtime.taskexecutor.JobLeaderService - Start job leader service.
+INFO main org.apache.flink.runtime.filecache.FileCache - User file cache uses directory /tmp/flink-dist-cache-c63cb2b9-fd64-4c66-956e-49e14211c72c
+INFO main org.apache.flink.runtime.minicluster.MiniCluster - Starting dispatcher rest endpoint.
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.taskexecutor.TaskExecutor - Connecting to ResourceManager akka://flink/user/resourcemanager_b4426da7-d245-4dad-9e31-b92d4b8f80bc(a8ad3f2eba4a9abbe176abcbe52741fe).
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.taskexecutor.TaskExecutor - Resolved ResourceManager address, beginning registration
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.taskexecutor.TaskExecutor - Registration at ResourceManager attempt 1 (timeout=100ms)
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.resourcemanager.StandaloneResourceManager - Registering TaskManager with ResourceID 05159f0a-572d-49d9-a2f6-f82bd70f8cde (akka://flink/user/taskmanager_0) at ResourceManager
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.taskexecutor.TaskExecutor - Successful registration at resource manager akka://flink/user/resourcemanager_b4426da7-d245-4dad-9e31-b92d4b8f80bc under registration id 87a721960bcc47233504457a6fc0d3b0.
+INFO main org.apache.flink.runtime.dispatcher.DispatcherRestEndpoint - Starting rest endpoint.
+WARN main org.apache.flink.runtime.webmonitor.WebMonitorUtils - Log file environment variable 'log.file' is not set.
+WARN main org.apache.flink.runtime.webmonitor.WebMonitorUtils - JobManager log files are unavailable in the web dashboard. Log file location not found in environment variable 'log.file' or configuration key 'Key: 'web.log.path' , default: null (deprecated keys: [jobmanager.web.log.path])'.
+INFO main org.apache.flink.runtime.dispatcher.DispatcherRestEndpoint - Failed to load web based job submission extension. Probable reason: flink-runtime-web is not in the classpath.
+INFO main org.apache.flink.runtime.dispatcher.DispatcherRestEndpoint - Rest endpoint listening at localhost:35831
+INFO main org.apache.flink.runtime.highavailability.nonha.embedded.EmbeddedLeaderService - Proposing leadership to contender org.apache.flink.runtime.dispatcher.DispatcherRestEndpoint@27068a50 @ http://localhost:35831
+INFO main org.apache.flink.runtime.minicluster.MiniCluster - Starting job dispatcher(s) for JobManger
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.dispatcher.DispatcherRestEndpoint - http://localhost:35831 was granted leadership with leaderSessionID=06a02449-ddb2-499b-98bc-d880528474d7
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.highavailability.nonha.embedded.EmbeddedLeaderService - Received confirmation of leadership for leader http://localhost:35831 , session=06a02449-ddb2-499b-98bc-d880528474d7
+INFO main org.apache.flink.runtime.rpc.akka.AkkaRpcService - Starting RPC endpoint for org.apache.flink.runtime.dispatcher.StandaloneDispatcher at akka://flink/user/dispatcherda735489-3b33-4c34-baa3-07e9d1c8a576 .
+INFO main org.apache.flink.runtime.highavailability.nonha.embedded.EmbeddedLeaderService - Proposing leadership to contender org.apache.flink.runtime.dispatcher.StandaloneDispatcher@5e742e4 @ akka://flink/user/dispatcherda735489-3b33-4c34-baa3-07e9d1c8a576
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.dispatcher.StandaloneDispatcher - Dispatcher akka://flink/user/dispatcherda735489-3b33-4c34-baa3-07e9d1c8a576 was granted leadership with fencing token 3e8f5f36-9817-4ee8-a196-b7e098ae354c
+INFO main org.apache.flink.runtime.minicluster.MiniCluster - Flink Mini Cluster started successfully
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.dispatcher.StandaloneDispatcher - Recovering all persisted jobs.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.highavailability.nonha.embedded.EmbeddedLeaderService - Received confirmation of leadership for leader akka://flink/user/dispatcherda735489-3b33-4c34-baa3-07e9d1c8a576 , session=3e8f5f36-9817-4ee8-a196-b7e098ae354c
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.dispatcher.StandaloneDispatcher - Submitting job 6b9fe9bf90f774db3a3a21522a1f9555 (data_to_redis_db0).
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.rpc.akka.AkkaRpcService - Starting RPC endpoint for org.apache.flink.runtime.jobmaster.JobMaster at akka://flink/user/jobmanager_1 .
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.jobmaster.JobMaster - Initializing job data_to_redis_db0 (6b9fe9bf90f774db3a3a21522a1f9555).
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.jobmaster.JobMaster - Using restart strategy FixedDelayRestartStrategy(maxNumberRestartAttempts=2147483647, delayBetweenRestartAttempts=0) for data_to_redis_db0 (6b9fe9bf90f774db3a3a21522a1f9555).
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.rpc.akka.AkkaRpcService - Starting RPC endpoint for org.apache.flink.runtime.jobmaster.slotpool.SlotPool at akka://flink/user/217191f9-dcd8-4457-a653-7cf3ad86b85e .
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.executiongraph.ExecutionGraph - Job recovers via failover strategy: full graph restart
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.jobmaster.JobMaster - Running initialization on master for job data_to_redis_db0 (6b9fe9bf90f774db3a3a21522a1f9555).
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.jobmaster.JobMaster - Successfully ran initialization on master in 0 ms.
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.jobmaster.JobMaster - No state backend has been configured, using default (Memory / JobManager) MemoryStateBackend (data in heap memory / checkpoints to JobManager) (checkpoints: 'null', savepoints: 'null', asynchronous: TRUE, maxStateSize: 5242880)
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.highavailability.nonha.embedded.EmbeddedLeaderService - Proposing leadership to contender org.apache.flink.runtime.jobmaster.JobManagerRunner@4888b5c5 @ akka://flink/user/jobmanager_1
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.jobmaster.JobManagerRunner - JobManager runner for job data_to_redis_db0 (6b9fe9bf90f774db3a3a21522a1f9555) was granted leadership with session id 64092221-02d1-4204-9b5c-ba96bc43f779 at akka://flink/user/jobmanager_1.
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.jobmaster.JobMaster - Starting execution of job data_to_redis_db0 (6b9fe9bf90f774db3a3a21522a1f9555)
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.executiongraph.ExecutionGraph - Job data_to_redis_db0 (6b9fe9bf90f774db3a3a21522a1f9555) switched from state CREATED to RUNNING.
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.executiongraph.ExecutionGraph - Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) (061ea80cf70870c1927f0473e27e8d69) switched from CREATED to SCHEDULED.
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.executiongraph.ExecutionGraph - Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) (9efecacdb473ec89333b4955d4ea8fec) switched from CREATED to SCHEDULED.
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.jobmaster.JobMaster - Connecting to ResourceManager akka://flink/user/resourcemanager_b4426da7-d245-4dad-9e31-b92d4b8f80bc(a8ad3f2eba4a9abbe176abcbe52741fe)
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.jobmaster.JobMaster - Resolved ResourceManager address, beginning registration
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.jobmaster.JobMaster - Registration at ResourceManager attempt 1 (timeout=100ms)
+INFO jobmanager-future-thread-1 org.apache.flink.runtime.highavailability.nonha.embedded.EmbeddedLeaderService - Received confirmation of leadership for leader akka://flink/user/jobmanager_1 , session=64092221-02d1-4204-9b5c-ba96bc43f779
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.resourcemanager.StandaloneResourceManager - Registering job manager 9b5cba96bc43f7796409222102d14204@akka://flink/user/jobmanager_1 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.resourcemanager.StandaloneResourceManager - Registered job manager 9b5cba96bc43f7796409222102d14204@akka://flink/user/jobmanager_1 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.jobmaster.JobMaster - JobManager successfully registered at ResourceManager, leader id: a8ad3f2eba4a9abbe176abcbe52741fe.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.jobmaster.slotpool.SlotPool - Cannot serve slot request, no ResourceManager connected. Adding as pending request [SlotRequestId{387027fc0572641d25a1d6500e598621}]
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.jobmaster.slotpool.SlotPool - Cannot serve slot request, no ResourceManager connected. Adding as pending request [SlotRequestId{7f52c70004d5ac12b1e54a385e0db24a}]
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.jobmaster.slotpool.SlotPool - Requesting new slot [SlotRequestId{387027fc0572641d25a1d6500e598621}] and profile ResourceProfile{cpuCores=-1.0, heapMemoryInMB=-1, directMemoryInMB=0, nativeMemoryInMB=0, networkMemoryInMB=0} from resource manager.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.jobmaster.slotpool.SlotPool - Requesting new slot [SlotRequestId{7f52c70004d5ac12b1e54a385e0db24a}] and profile ResourceProfile{cpuCores=-1.0, heapMemoryInMB=-1, directMemoryInMB=0, nativeMemoryInMB=0, networkMemoryInMB=0} from resource manager.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.resourcemanager.StandaloneResourceManager - Request slot with profile ResourceProfile{cpuCores=-1.0, heapMemoryInMB=-1, directMemoryInMB=0, nativeMemoryInMB=0, networkMemoryInMB=0} for job 6b9fe9bf90f774db3a3a21522a1f9555 with allocation id AllocationID{dd30303ae7f405274afb37a6fef3056d}.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.resourcemanager.StandaloneResourceManager - Request slot with profile ResourceProfile{cpuCores=-1.0, heapMemoryInMB=-1, directMemoryInMB=0, nativeMemoryInMB=0, networkMemoryInMB=0} for job 6b9fe9bf90f774db3a3a21522a1f9555 with allocation id AllocationID{ebc2305f9e894cb9feddf68947e73ef1}.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.TaskExecutor - Receive slot request AllocationID{dd30303ae7f405274afb37a6fef3056d} for job 6b9fe9bf90f774db3a3a21522a1f9555 from resource manager with leader id a8ad3f2eba4a9abbe176abcbe52741fe.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.TaskExecutor - Allocated slot for AllocationID{dd30303ae7f405274afb37a6fef3056d}.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.JobLeaderService - Add job 6b9fe9bf90f774db3a3a21522a1f9555 for job leader monitoring.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.TaskExecutor - Receive slot request AllocationID{ebc2305f9e894cb9feddf68947e73ef1} for job 6b9fe9bf90f774db3a3a21522a1f9555 from resource manager with leader id a8ad3f2eba4a9abbe176abcbe52741fe.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.TaskExecutor - Allocated slot for AllocationID{ebc2305f9e894cb9feddf68947e73ef1}.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.JobLeaderService - Add job 6b9fe9bf90f774db3a3a21522a1f9555 for job leader monitoring.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.JobLeaderService - Try to register at job manager akka://flink/user/jobmanager_1 with leader id 64092221-02d1-4204-9b5c-ba96bc43f779.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.JobLeaderService - Resolved JobManager address, beginning registration
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.JobLeaderService - Registration at JobManager attempt 1 (timeout=100ms)
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.JobLeaderService - Successful registration at job manager akka://flink/user/jobmanager_1 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.TaskExecutor - Establish JobManager connection for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.TaskExecutor - Offer reserved slots to the leader of job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.executiongraph.ExecutionGraph - Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) (061ea80cf70870c1927f0473e27e8d69) switched from SCHEDULED to DEPLOYING.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.executiongraph.ExecutionGraph - Deploying Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) (attempt #0) to localhost
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.executiongraph.ExecutionGraph - Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) (9efecacdb473ec89333b4955d4ea8fec) switched from SCHEDULED to DEPLOYING.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.executiongraph.ExecutionGraph - Deploying Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) (attempt #0) to localhost
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.TaskExecutor - Received task Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2).
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.TaskExecutor - Received task Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2).
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.flink.runtime.taskmanager.Task - Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) (061ea80cf70870c1927f0473e27e8d69) switched from CREATED to DEPLOYING.
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.flink.runtime.taskmanager.Task - Creating FileSystem stream leak safety net for task Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) (061ea80cf70870c1927f0473e27e8d69) [DEPLOYING]
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.flink.runtime.taskmanager.Task - Loading JAR files for task Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) (061ea80cf70870c1927f0473e27e8d69) [DEPLOYING].
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.flink.runtime.taskmanager.Task - Registering task at network: Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) (061ea80cf70870c1927f0473e27e8d69) [DEPLOYING].
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.flink.runtime.taskmanager.Task - Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) (061ea80cf70870c1927f0473e27e8d69) switched from DEPLOYING to RUNNING.
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.flink.streaming.runtime.tasks.StreamTask - No state backend has been configured, using default (Memory / JobManager) MemoryStateBackend (data in heap memory / checkpoints to JobManager) (checkpoints: 'null', savepoints: 'null', asynchronous: TRUE, maxStateSize: 5242880)
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.flink.runtime.taskmanager.Task - Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) (9efecacdb473ec89333b4955d4ea8fec) switched from CREATED to DEPLOYING.
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.flink.runtime.taskmanager.Task - Creating FileSystem stream leak safety net for task Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) (9efecacdb473ec89333b4955d4ea8fec) [DEPLOYING]
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.flink.runtime.taskmanager.Task - Loading JAR files for task Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) (9efecacdb473ec89333b4955d4ea8fec) [DEPLOYING].
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.flink.runtime.taskmanager.Task - Registering task at network: Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) (9efecacdb473ec89333b4955d4ea8fec) [DEPLOYING].
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.flink.runtime.taskmanager.Task - Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) (9efecacdb473ec89333b4955d4ea8fec) switched from DEPLOYING to RUNNING.
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.flink.streaming.runtime.tasks.StreamTask - No state backend has been configured, using default (Memory / JobManager) MemoryStateBackend (data in heap memory / checkpoints to JobManager) (checkpoints: 'null', savepoints: 'null', asynchronous: TRUE, maxStateSize: 5242880)
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.slot.TaskSlotTable - Activate slot AllocationID{dd30303ae7f405274afb37a6fef3056d}.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.taskexecutor.slot.TaskSlotTable - Activate slot AllocationID{ebc2305f9e894cb9feddf68947e73ef1}.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.executiongraph.ExecutionGraph - Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) (061ea80cf70870c1927f0473e27e8d69) switched from DEPLOYING to RUNNING.
+INFO flink-akka.actor.default-dispatcher-2 org.apache.flink.runtime.executiongraph.ExecutionGraph - Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) (9efecacdb473ec89333b4955d4ea8fec) switched from DEPLOYING to RUNNING.
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.flink.api.java.typeutils.TypeExtractor - class org.apache.flink.streaming.connectors.kafka.internals.KafkaTopicPartition does not contain a setter for field topic
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.flink.api.java.typeutils.TypeExtractor - Class class org.apache.flink.streaming.connectors.kafka.internals.KafkaTopicPartition cannot be used as a POJO type because not all fields are valid POJO fields, and must be processed as GenericType. Please read the Flink documentation on "Data Types & Serialization" for details of the effect on performance.
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.flink.streaming.connectors.kafka.FlinkKafkaConsumerBase - No restore state for FlinkKafkaConsumer.
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.flink.api.java.typeutils.TypeExtractor - class org.apache.flink.streaming.connectors.kafka.internals.KafkaTopicPartition does not contain a setter for field topic
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.flink.api.java.typeutils.TypeExtractor - Class class org.apache.flink.streaming.connectors.kafka.internals.KafkaTopicPartition cannot be used as a POJO type because not all fields are valid POJO fields, and must be processed as GenericType. Please read the Flink documentation on "Data Types & Serialization" for details of the effect on performance.
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.flink.streaming.connectors.kafka.FlinkKafkaConsumerBase - No restore state for FlinkKafkaConsumer.
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.kafka.clients.consumer.ConsumerConfig - ConsumerConfig values: 
+	auto.commit.interval.ms = 5000
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.136.131:9092]
+	check.crcs = true
+	client.id = 
+	connections.max.idle.ms = 540000
+	default.api.timeout.ms = 60000
+	enable.auto.commit = true
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = 
+	heartbeat.interval.ms = 3000
+	interceptor.classes = []
+	internal.leave.group.on.close = true
+	isolation.level = read_uncommitted
+	key.deserializer = class org.apache.kafka.common.serialization.ByteArrayDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	session.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = https
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class org.apache.kafka.common.serialization.ByteArrayDeserializer
+
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.kafka.clients.consumer.ConsumerConfig - ConsumerConfig values: 
+	auto.commit.interval.ms = 5000
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.136.131:9092]
+	check.crcs = true
+	client.id = 
+	connections.max.idle.ms = 540000
+	default.api.timeout.ms = 60000
+	enable.auto.commit = true
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = 
+	heartbeat.interval.ms = 3000
+	interceptor.classes = []
+	internal.leave.group.on.close = true
+	isolation.level = read_uncommitted
+	key.deserializer = class org.apache.kafka.common.serialization.ByteArrayDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	session.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = https
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class org.apache.kafka.common.serialization.ByteArrayDeserializer
+
+WARN Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.kafka.clients.consumer.ConsumerConfig - The configuration 'zookeeper.connect' was supplied but isn't a known config.
+WARN Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.kafka.clients.consumer.ConsumerConfig - The configuration 'topic' was supplied but isn't a known config.
+WARN Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.kafka.clients.consumer.ConsumerConfig - The configuration 'group.idDataToRedis' was supplied but isn't a known config.
+WARN Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.kafka.clients.consumer.ConsumerConfig - The configuration 'zookeeper.connect' was supplied but isn't a known config.
+WARN Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.kafka.clients.consumer.ConsumerConfig - The configuration 'topic' was supplied but isn't a known config.
+WARN Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.kafka.clients.consumer.ConsumerConfig - The configuration 'group.idDataToRedis' was supplied but isn't a known config.
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.kafka.common.utils.AppInfoParser - Kafka version : 2.0.1
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.kafka.common.utils.AppInfoParser - Kafka commitId : fa14705e51bd2ce5
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.kafka.common.utils.AppInfoParser - Kafka version : 2.0.1
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.kafka.common.utils.AppInfoParser - Kafka commitId : fa14705e51bd2ce5
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.kafka.clients.Metadata - Cluster ID: PEV6jJdpSDuUiRja6itEKg
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.kafka.clients.Metadata - Cluster ID: PEV6jJdpSDuUiRja6itEKg
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.flink.streaming.connectors.kafka.FlinkKafkaConsumerBase - Consumer subtask 0 will start reading the following 1 partitions from the committed group offsets in Kafka: [KafkaTopicPartition{topic='double14', partition=0}]
+INFO Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.flink.streaming.connectors.kafka.FlinkKafkaConsumerBase - Consumer subtask 1 initially has no partitions to read from.
+INFO Kafka 0.10 Fetcher for Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.kafka.clients.consumer.ConsumerConfig - ConsumerConfig values: 
+	auto.commit.interval.ms = 5000
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.136.131:9092]
+	check.crcs = true
+	client.id = 
+	connections.max.idle.ms = 540000
+	default.api.timeout.ms = 60000
+	enable.auto.commit = false
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = 
+	heartbeat.interval.ms = 3000
+	interceptor.classes = []
+	internal.leave.group.on.close = true
+	isolation.level = read_uncommitted
+	key.deserializer = class org.apache.kafka.common.serialization.ByteArrayDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	session.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = https
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class org.apache.kafka.common.serialization.ByteArrayDeserializer
+
+WARN Kafka 0.10 Fetcher for Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.kafka.clients.consumer.ConsumerConfig - The configuration 'zookeeper.connect' was supplied but isn't a known config.
+WARN Kafka 0.10 Fetcher for Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.kafka.clients.consumer.ConsumerConfig - The configuration 'topic' was supplied but isn't a known config.
+WARN Kafka 0.10 Fetcher for Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.kafka.clients.consumer.ConsumerConfig - The configuration 'group.idDataToRedis' was supplied but isn't a known config.
+INFO Kafka 0.10 Fetcher for Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.kafka.common.utils.AppInfoParser - Kafka version : 2.0.1
+INFO Kafka 0.10 Fetcher for Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.kafka.common.utils.AppInfoParser - Kafka commitId : fa14705e51bd2ce5
+INFO Kafka 0.10 Fetcher for Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.kafka.clients.consumer.ConsumerConfig - ConsumerConfig values: 
+	auto.commit.interval.ms = 5000
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.136.131:9092]
+	check.crcs = true
+	client.id = 
+	connections.max.idle.ms = 540000
+	default.api.timeout.ms = 60000
+	enable.auto.commit = false
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = 
+	heartbeat.interval.ms = 3000
+	interceptor.classes = []
+	internal.leave.group.on.close = true
+	isolation.level = read_uncommitted
+	key.deserializer = class org.apache.kafka.common.serialization.ByteArrayDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	session.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = https
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class org.apache.kafka.common.serialization.ByteArrayDeserializer
+
+WARN Kafka 0.10 Fetcher for Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.kafka.clients.consumer.ConsumerConfig - The configuration 'zookeeper.connect' was supplied but isn't a known config.
+WARN Kafka 0.10 Fetcher for Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.kafka.clients.consumer.ConsumerConfig - The configuration 'topic' was supplied but isn't a known config.
+WARN Kafka 0.10 Fetcher for Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.kafka.clients.consumer.ConsumerConfig - The configuration 'group.idDataToRedis' was supplied but isn't a known config.
+INFO Kafka 0.10 Fetcher for Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.kafka.common.utils.AppInfoParser - Kafka version : 2.0.1
+INFO Kafka 0.10 Fetcher for Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (2/2) org.apache.kafka.common.utils.AppInfoParser - Kafka commitId : fa14705e51bd2ce5
+INFO Kafka 0.10 Fetcher for Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.kafka.clients.Metadata - Cluster ID: PEV6jJdpSDuUiRja6itEKg
+INFO Kafka 0.10 Fetcher for Source: Custom Source -> (Sink: Print to Std. Out, Map -> Sink: Unnamed) (1/2) org.apache.kafka.clients.consumer.internals.AbstractCoordinator - [Consumer clientId=consumer-3, groupId=] Discovered group coordinator bigdatavm:9092 (id: 2147483647 rack: null)
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 1 @ 1555400685485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 1 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 187 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 2 @ 1555400690485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-3 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 2 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 15 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 3 @ 1555400695485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-5 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 3 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 6 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 4 @ 1555400700485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-5 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 4 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 5 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 5 @ 1555400705485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-7 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 5 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 6 @ 1555400710485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-8 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 6 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 10 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 7 @ 1555400715485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-9 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 7 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 6 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 8 @ 1555400720485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-9 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 8 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 7 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 9 @ 1555400725485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-11 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 9 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 10 @ 1555400730485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-12 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 10 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 11 @ 1555400735485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-12 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 11 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 5 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 12 @ 1555400740485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-14 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 12 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 11 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 13 @ 1555400745485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-14 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 13 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 14 @ 1555400750485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-16 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 14 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 15 @ 1555400755485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-17 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 15 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 16 @ 1555400760485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-18 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 16 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 10 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 17 @ 1555400765485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-19 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 17 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 18 @ 1555400770485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-20 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 18 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 24 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 19 @ 1555400775485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-20 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 19 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 7 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 20 @ 1555400780485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-20 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 20 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 14 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 21 @ 1555400785485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-20 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 21 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 5 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 22 @ 1555400790485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-24 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 22 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 23 @ 1555400795485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-25 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 23 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 24 @ 1555400800485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-26 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 24 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 25 @ 1555400805485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-27 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 25 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 26 @ 1555400810485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-27 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 26 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 5 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 27 @ 1555400815485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-29 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 27 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 9 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 28 @ 1555400820485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-30 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 28 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 29 @ 1555400825485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-30 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 29 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 6 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 30 @ 1555400830485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-30 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 30 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 31 @ 1555400835485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-30 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 31 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 32 @ 1555400840485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-30 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 32 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 16 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 33 @ 1555400845485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-35 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 33 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 34 @ 1555400850485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-35 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 34 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 17 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 35 @ 1555400855485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-37 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 35 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 36 @ 1555400860485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-38 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 36 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 37 @ 1555400865485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-38 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 37 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 38 @ 1555400870485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-40 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 38 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 39 @ 1555400875486 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-41 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 39 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 7 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 40 @ 1555400880485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-42 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 40 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 41 @ 1555400885485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-43 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 41 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 5 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 42 @ 1555400890485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-44 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 42 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 43 @ 1555400895485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-45 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 43 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 44 @ 1555400900485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-46 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 44 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 6 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 45 @ 1555400905485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-47 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 45 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 46 @ 1555400910485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-48 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 46 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 47 @ 1555400915485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-49 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 47 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 48 @ 1555400920485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-50 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 48 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 10 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 49 @ 1555400925485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-51 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 49 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 50 @ 1555400930485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-51 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 50 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 6 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 51 @ 1555400935485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-53 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 51 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 52 @ 1555400940487 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-53 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 52 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 9 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 53 @ 1555400945485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-55 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 53 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 54 @ 1555400950485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-55 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 54 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 55 @ 1555400955485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-57 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 55 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 7 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 56 @ 1555400960485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-58 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 56 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 57 @ 1555400965485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-58 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 57 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 16 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 58 @ 1555400970485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-60 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 58 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 59 @ 1555400975485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-61 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 59 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 60 @ 1555400980485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-61 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 60 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 61 @ 1555400985486 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-61 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 61 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 5 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 62 @ 1555400990485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-64 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 62 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 63 @ 1555400995485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-64 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 63 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 6 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 64 @ 1555401000485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-66 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 64 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 9 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 65 @ 1555401005485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-66 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 65 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 4 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 66 @ 1555401010485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-66 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 66 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 11 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 67 @ 1555401015485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-69 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 67 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 68 @ 1555401020485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-69 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 68 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 69 @ 1555401025485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-71 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 69 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 70 @ 1555401030485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-71 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 70 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 71 @ 1555401035485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-71 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 71 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 72 @ 1555401040485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-74 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 72 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 73 @ 1555401045485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-74 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 73 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 74 @ 1555401050485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-74 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 74 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 75 @ 1555401055485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-74 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 75 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 76 @ 1555401060485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-78 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 76 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 77 @ 1555401065485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-79 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 77 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 7 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 78 @ 1555401070485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-80 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 78 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 6 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 79 @ 1555401075485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-80 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 79 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 80 @ 1555401080485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-80 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 80 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 81 @ 1555401085485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-83 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 81 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 82 @ 1555401090485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-84 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 82 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 83 @ 1555401095485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-85 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 83 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 84 @ 1555401100485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-85 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 84 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 85 @ 1555401105485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-87 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 85 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 86 @ 1555401110485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-88 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 86 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 87 @ 1555401115485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-89 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 87 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 6 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 88 @ 1555401120485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-90 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 88 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 89 @ 1555401125485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-90 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 89 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 1 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 90 @ 1555401130485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-92 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 90 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 91 @ 1555401135485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-90 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 91 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 92 @ 1555401140485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-90 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 92 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 93 @ 1555401145485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-95 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 93 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 2 ms).
+INFO Checkpoint Timer org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Triggering checkpoint 94 @ 1555401150485 for job 6b9fe9bf90f774db3a3a21522a1f9555.
+INFO flink-akka.actor.default-dispatcher-96 org.apache.flink.runtime.checkpoint.CheckpointCoordinator - Completed checkpoint 94 for job 6b9fe9bf90f774db3a3a21522a1f9555 (14431 bytes in 3 ms).
+INFO TransientBlobCache shutdown hook org.apache.flink.runtime.blob.TransientBlobCache - Shutting down BLOB cache
+INFO PermanentBlobCache shutdown hook org.apache.flink.runtime.blob.PermanentBlobCache - Shutting down BLOB cache
+INFO TaskExecutorLocalStateStoresManager shutdown hook org.apache.flink.runtime.state.TaskExecutorLocalStateStoresManager - Shutting down TaskExecutorLocalStateStoresManager.
+INFO BlobServer shutdown hook org.apache.flink.runtime.blob.BlobServer - Stopped BLOB server at 0.0.0.0:52199
+INFO IOManagerAsync shutdown hook org.apache.flink.runtime.io.disk.iomanager.IOManager - I/O manager removed spill file directory /tmp/flink-io-4582abd4-fdf4-4d9d-8522-7a62a1675f17
