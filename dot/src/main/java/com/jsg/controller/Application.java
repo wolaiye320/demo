@@ -1,6 +1,4 @@
-package com.jsg.controller;
-
-/**
+package com.jsg.controller; /**
  * Springboot 启动类
  */
 

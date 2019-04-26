@@ -1,0 +1,18 @@
+package com.jsg.util;
+
+import com.typesafe.config.Config;
+import com.typesafe.config.ConfigFactory;
+
+/**
+ * Created by li on 2019/1/6.
+ */
+public class PropertiesUtil {
+    public final static Config config = ConfigFactory.load("default.properties");
+    public static String getKey(String key){
+        return config.getString(key).trim();
+    }
+    public static String getKey(String key,String filename){
+        Config config =  ConfigFactory.load(filename);
+        return config.getString(key).trim();
+    }
+}

@@ -2,64 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e87873f4-dff9-438b-87d6-9badaf38c720" name="Default" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/canaldemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/canaldemo/src/main/java/com/test/canal_client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/common/EasyRedisMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/common/EasyRedisSink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/controller/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/kafka/DataToRedis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/src/main/resources/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/target/classes/com/jsg/common/EasyRedisMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/target/classes/com/jsg/common/EasyRedisSink$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/target/classes/com/jsg/common/EasyRedisSink.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/target/classes/com/jsg/controller/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/target/classes/com/jsg/controller/OrderController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/target/classes/com/jsg/kafka/DataToRedis$KafkaMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/target/classes/com/jsg/kafka/DataToRedis$RedisMapperCustom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/target/classes/com/jsg/kafka/DataToRedis.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/target/classes/com/jsg/model/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dot/target/classes/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elaticjobdemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elaticjobdemo/src/main/java/com/sougen/SimpleJobDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elaticjobdemo/src/test/java/com/sougen/SimpleJobDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firestorm.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firestorm.log.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo/pom1.4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo/src/main/java/Double11Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo/src/main/java/KafkaConsumerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo/src/main/java/KafkaExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo/src/main/resources/double11.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo/target/classes/Double11Sum$LineSplitter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo/target/classes/Double11Sum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo/target/classes/KafkaConsumerDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo/target/classes/KafkaExample2$LineSplitter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo/target/classes/KafkaExample2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo/target/classes/double11.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo2/src/main/java/KafkaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo2/src/main/java/KafkaMsgSchema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo2/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo2/target/classes/KafkaExample$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo2/target/classes/KafkaExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo2/target/classes/KafkaMsgSchema.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flinkdemo2/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/map/CustomerMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/reduce/CustomRedisSink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/CamelCaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/CustomUUID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/EmailUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/FileUploadUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/IdUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/IkUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/IpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/JsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/MD5Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/MapUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/MathUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/PropertiesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/ReturnUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/UuidUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/client/HbaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/client/JedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/client/KafkaUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/client/MongoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elasticsearchdemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elasticsearchdemo/src/main/java/AdminAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elasticsearchdemo/src/main/java/EsCRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elasticsearchdemo/src/main/java/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flinkdemo/src/main/java/AsyncEsDataRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flinkdemo/src/main/java/Data2Es.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flinkdemo/src/main/java/Data2EsUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flinkdemo/src/main/java/FlinkSqlWindowsUserPv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flinkdemo/src/main/java/SinkUserPvToMySQL2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flinkdemo/src/main/java/StreamJoinStaticData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flinkdemo/src/main/java/UserPvEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flinkdemo/src/main/resources/person.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dot/src/main/java/com/jsg/controller/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/controller/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dot/src/main/java/com/jsg/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dot/src/main/java/com/jsg/kafka/DataToRedis.java" beforeDir="false" afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/task/Double11CalcTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dot/src/main/java/com/jsg/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/dot/src/main/java/com/jsg/entity/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dot/target/classes/com/jsg/controller/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/dot/target/classes/com/jsg/controller/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dot/target/classes/com/jsg/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/dot/target/classes/com/jsg/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dot/target/classes/com/jsg/kafka/DataToRedis$KafkaMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dot/target/classes/com/jsg/kafka/DataToRedis$RedisMapperCustom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dot/target/classes/com/jsg/kafka/DataToRedis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dot/target/classes/com/jsg/model/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firestorm.log" beforeDir="false" afterPath="$PROJECT_DIR$/firestorm.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firestorm.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/firestorm.log.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flinkdemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/flinkdemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flinkdemo/target/classes/Double11Sum$LineSplitter.class" beforeDir="false" afterPath="$PROJECT_DIR$/flinkdemo/target/classes/Double11Sum$LineSplitter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flinkdemo/target/classes/Double11Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/flinkdemo/target/classes/Double11Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -68,6 +63,7 @@
     <ignored path="$PROJECT_DIR$/elaticjobdemo/target/" />
     <ignored path="$PROJECT_DIR$/flinkdemo2/target/" />
     <ignored path="$PROJECT_DIR$/dot/target/" />
+    <ignored path="$PROJECT_DIR$/elasticsearchdemo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,34 +79,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/kafka/DataToRedis.java">
+        <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/task/Double11CalcTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="31" column="32" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/common/EasyRedisSink.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elaticjobdemo/src/main/java/com/sougen/SimpleJobDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="438">
+              <caret line="44" column="77" lean-forward="true" selection-start-line="44" selection-start-column="77" selection-end-line="44" selection-end-column="77" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,10 +91,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/elaticjobdemo/pom.xml">
+        <entry file="file://$PROJECT_DIR$/elasticsearchdemo/src/main/java/EsCRUD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="45" />
+            <state relative-caret-position="697">
+              <caret line="232" column="80" lean-forward="true" selection-start-line="232" selection-start-column="80" selection-end-line="232" selection-end-column="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,6 +119,13 @@
       <find>mon</find>
       <find>slf4j</find>
       <find>key ==</find>
+      <find>spring-cloud-starter-config</find>
+      <find>spring-boot-starter-web</find>
+      <find>orderStr ====</find>
+      <find>kafka</find>
+      <find>flink-table</find>
+      <find>flink-connector-elasticsearch</find>
+      <find>RestHighLevelClient</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -152,29 +134,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/canaldemo/pom.xml" />
-        <option value="$PROJECT_DIR$/dot/src/main/java/com/oeasy/kafka/Kafka010Example.java" />
-        <option value="$PROJECT_DIR$/flinkdemo2/src/main/java/KafkaExample.java" />
-        <option value="$PROJECT_DIR$/flinkdemo2/pom.xml" />
-        <option value="$PROJECT_DIR$/flinkdemo/pom.xml" />
-        <option value="$PROJECT_DIR$/flinkdemo/src/main/java/Double11Sum.java" />
-        <option value="$PROJECT_DIR$/flinkdemo/src/main/java/KafkaExample2.java" />
-        <option value="$PROJECT_DIR$/dot/src/main/java/com/oeasy/kafka/DataToRedis.java" />
         <option value="$PROJECT_DIR$/dot/src/main/java/com/oeasy/common/EasyRedisMapper.java" />
         <option value="$PROJECT_DIR$/dot/src/main/java/com/oeasy/common/EasyRedisSink.java" />
         <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/common/EasyRedisMapper.java" />
-        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/kafka/DataToRedis.java" />
-        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/entity/Order.java" />
         <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/control/OrderControl.java" />
         <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/controller/OrderControl.java" />
         <option value="$PROJECT_DIR$/dot/src/main/java/Application.java" />
         <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/controller/Application.java" />
-        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/controller/OrderController.java" />
         <option value="$PROJECT_DIR$/dot/src/main/resources/test" />
-        <option value="$PROJECT_DIR$/dot/pom.xml" />
         <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/common/EasyRedisSink.java" />
         <option value="$PROJECT_DIR$/elaticjobdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/dot/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/kafka/KafkaProducerDemo.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/kafka/consumOrderKafka.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/kafka/OrderConsumeKafka.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/kafka/OrderConsumeMq.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/kafka/OrderProduceMq.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/kafka/DataToRedis.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/UuidUtil.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/ItemTypeEnum.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/DateUtil.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/EmailUtils.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/MapUtils.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/MapUtil.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/ReadProperties.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/PropertiesUtil.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/task/DataToRedis.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/MongoUtil.java" />
+        <option value="$PROJECT_DIR$/dot/pom.xml" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/JedisUtil.java" />
+        <option value="$PROJECT_DIR$/flinkdemo/src/main/resources/person.txt" />
+        <option value="$PROJECT_DIR$/flinkdemo/src/main/java/KafkaConsumerDemo.java" />
+        <option value="$PROJECT_DIR$/flinkdemo/src/main/java/SinkUserPvToMySQL2.java" />
+        <option value="$PROJECT_DIR$/flinkdemo/src/main/java/UserPvEntity.java" />
+        <option value="$PROJECT_DIR$/flinkdemo/src/main/java/FlinkSqlWindowsUserPv.java" />
+        <option value="$PROJECT_DIR$/flinkdemo/src/main/java/Data2Es.java" />
+        <option value="$PROJECT_DIR$/flinkdemo/src/main/java/EsCRUD.java" />
+        <option value="$PROJECT_DIR$/elasticsearchdemo/src/main/java/AdminAPI.java" />
+        <option value="$PROJECT_DIR$/flinkdemo/src/main/java/Data2EsUpdate.java" />
+        <option value="$PROJECT_DIR$/flinkdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/flinkdemo/src/main/java/StreamJoinStaticData.java" />
+        <option value="$PROJECT_DIR$/flinkdemo/src/main/java/AsyncEsDataRequest.java" />
+        <option value="$PROJECT_DIR$/elasticsearchdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/client/JedisUtil.java" />
+        <option value="$PROJECT_DIR$/firestorm.log" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/util/client/KafkaUtil.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/entity/Order.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/reduce/CustomRedisSink.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/map/CustomerMap.java" />
+        <option value="$PROJECT_DIR$/dot/src/main/java/com/jsg/task/Double11CalcTask.java" />
+        <option value="$PROJECT_DIR$/elasticsearchdemo/src/main/java/EsCRUD.java" />
       </list>
     </option>
   </component>
@@ -193,10 +203,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1" />
-    <option name="y" value="1" />
-    <option name="width" value="1362" />
-    <option name="height" value="726" />
+    <option name="x" value="15" />
+    <option name="y" value="67" />
+    <option name="width" value="1260" />
+    <option name="height" value="666" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -204,7 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,43 +224,76 @@
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="elaticjobdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="dot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="elaticjobdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="dot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="elaticjobdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="elaticjobdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="dot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="elaticjobdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="dot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sougen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jsg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dot" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearchdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearchdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearchdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearchdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,21 +304,24 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/elasticsearchdemo/src/main/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\workSpace\demo\dot\src\main\resources" />
-      <recent name="D:\workSpace\demo\dot\src\main\java\com\oeasy\kafka" />
-      <recent name="D:\workSpace\demo\flinkdemo2\src" />
-      <recent name="D:\workSpace\demo\elaticjobdemo\src" />
-      <recent name="D:\workSpace\demo\canaldemo\src\main\java" />
+      <recent name="$PROJECT_DIR$/elasticsearchdemo/src/main/java" />
+      <recent name="$PROJECT_DIR$/flinkdemo/src/main/java" />
+      <recent name="$PROJECT_DIR$/dot/src/main/java/com/jsg/util" />
+      <recent name="$PROJECT_DIR$/dot/src/main/java/com/jsg" />
+      <recent name="$PROJECT_DIR$/dot/src/main/java/com/jsg/kafka" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -291,14 +336,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DataToRedis">
-    <configuration name="DataToRedis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jsg.kafka.DataToRedis" />
+  <component name="RunManager" selected="Application.Double11CalcTask">
+    <configuration name="Application" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jsg.controller.Application" />
       <module name="dot" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jsg.kafka.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,13 +351,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kafka010Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oeasy.kafka.Kafka010Example" />
+    <configuration name="Double11CalcTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jsg.task.Double11CalcTask" />
       <module name="dot" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jsg.kafka.*" />
+          <option name="PATTERN" value="com.jsg.task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,6 +381,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderProduceMq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jsg.kafka.OrderProduceMq" />
+      <module name="dot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jsg.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -349,10 +408,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="dot" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jsg.controller.Application" />
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -363,17 +418,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Kafka010Example" />
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Application.Double11CalcTask" />
       <item itemvalue="Application.KafkaExample" />
       <item itemvalue="Application.KafkaExample2" />
-      <item itemvalue="Application.DataToRedis" />
+      <item itemvalue="Application.OrderProduceMq" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DataToRedis" />
+        <item itemvalue="Application.Double11CalcTask" />
+        <item itemvalue="Application.OrderProduceMq" />
         <item itemvalue="Application.KafkaExample2" />
         <item itemvalue="Application.KafkaExample" />
-        <item itemvalue="Application.Kafka010Example" />
       </list>
     </recent_temporary>
   </component>
@@ -393,6 +449,14 @@
       <workItem from="1555031757117" duration="24249000" />
       <workItem from="1555295183343" duration="1339000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1555402358810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555402358810</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -409,10 +473,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="28" width="1922" height="1019" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18128343" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49942726" visible="true" weight="0.1855615" />
+      <window_info id="Structure" order="1" sideWeight="0.50057274" side_tool="true" weight="0.1855615" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -420,18 +483,18 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32946146" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946523" weight="0.46391752" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.61053836" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4983957" weight="0.45475373" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39915523" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32915717" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946523" weight="0.32875144" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946523" weight="0.32915717" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005348" side_tool="true" weight="0.46127564" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49893048" weight="0.32875144" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50160426" side_tool="true" weight="0.45475373" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49786097" weight="0.32801822" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49946523" weight="0.3298969" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4973262" weight="0.55211914" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -464,167 +527,243 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/canaldemo/src/main/java/com/test/canal_client.java">
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/StringUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        <state relative-caret-position="-106">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/canaldemo/pom.xml">
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/JsonUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0.jar!/org/apache/flink/streaming/api/functions/TimestampAssigner.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0.jar!/org/apache/flink/streaming/api/functions/AssignerWithPeriodicWatermarks.class" />
-    <entry file="file://$PROJECT_DIR$/flinkdemo/pom-1.4.2.xml" />
-    <entry file="file://$PROJECT_DIR$/flinkdemo2/pom.xml">
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/MathUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-679">
-          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flinkdemo/src/main/java/KafkaExample2.java">
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/CustomUUID.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/oeasy/kafka/Kafka010Example.java" />
-    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/oeasy/kafka/KafkaEventSchema.java" />
-    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/oeasy/kafka/KafkaEvent.java" />
-    <entry file="file://$PROJECT_DIR$/flinkdemo2/src/main/java/KafkaExample.java">
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/DateUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="540">
+          <caret line="523" column="49" selection-start-line="523" selection-start-column="49" selection-end-line="523" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-redis_2.10/1.1.5/flink-connector-redis_2.10-1.1.5.jar!/org/apache/flink/streaming/connectors/redis/common/mapper/RedisCommandDescription.class">
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/EmailUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="5" column="66" lean-forward="true" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+        <state relative-caret-position="663">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-redis_2.10/1.1.5/flink-connector-redis_2.10-1.1.5.jar!/org/apache/flink/streaming/connectors/redis/RedisSink.class">
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/FileUploadUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="84" column="1" lean-forward="true" selection-start-line="20" selection-end-line="84" selection-end-column="1" />
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.4.2/flink-core-1.4.2.jar!/org/apache/flink/api/common/functions/AbstractRichFunction.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/io/Serializable.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.4.2/flink-core-1.4.2.jar!/org/apache/flink/api/common/functions/Function.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.4.2/flink-streaming-java_2.11-1.4.2.jar!/org/apache/flink/streaming/api/functions/sink/SinkFunction.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.4.2/flink-streaming-java_2.11-1.4.2.jar!/org/apache/flink/streaming/api/functions/sink/RichSinkFunction.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-redis_2.10/1.1.5/flink-connector-redis_2.10-1.1.5.jar!/org/apache/flink/streaming/connectors/redis/common/mapper/RedisMapper.class">
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/IdUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="27" />
+        <state relative-caret-position="119">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-redis_2.10/1.1.5/flink-connector-redis_2.10-1.1.5.jar!/org/apache/flink/streaming/connectors/redis/common/container/RedisCommandsContainer.class">
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/IpUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="17">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/common/EasyRedisMapper.java">
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/IkUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="52" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="52" />
+        <state relative-caret-position="476">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/model/Order.java">
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/MapUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/controller/OrderController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        <state relative-caret-position="472">
+          <caret line="45" column="50" lean-forward="true" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1385#1399#0" expanded="true" />
+            <element signature="e#1529#1530#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flinkdemo/pom1.4.xml">
+    <entry file="file://$PROJECT_DIR$/flinkdemo/src/main/resources/person.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="70" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/controller/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flinkdemo2/src/main/java/KafkaMsgSchema.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="48" selection-start-column="48" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flinkdemo/src/main/java/Double11Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flinkdemo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="51">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dot/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="130" column="20" lean-forward="true" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.2/flink-table_2.11-1.7.2.jar!/org/apache/flink/table/api/StreamTableEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.2/flink-streaming-java_2.11-1.7.2.jar!/org/apache/flink/streaming/api/TimeCharacteristic.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flinkdemo/src/main/java/UserPvEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.7.2/flink-core-1.7.2.jar!/org/apache/flink/api/common/serialization/SimpleStringSchema.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flinkdemo/src/main/java/EsCRUD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="55" column="11" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elasticsearchdemo/src/main/java/AdminAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flinkdemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-395">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flinkdemo/src/main/java/AsyncEsDataRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="52" column="25" lean-forward="true" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/plugin/reindex-client/5.4.3/reindex-client-5.4.3.jar!/org/elasticsearch/index/reindex/DeleteByQueryAction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/plugin/reindex-client/5.4.3/reindex-client-5.4.3.jar!/org/elasticsearch/index/reindex/DeleteByQueryRequestBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.5.0/elasticsearch-5.5.0.jar!/org/elasticsearch/index/reindex/AbstractBulkByScrollRequestBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elasticsearchdemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="778">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/client/MongoUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/CamelCaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/PropertiesUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/client/JedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dot/src/main/resources/test">
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/client/HbaseUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/kafka/DataToRedis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="31" column="32" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="32" />
+        <state relative-caret-position="527">
+          <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -633,28 +772,170 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/common/EasyRedisSink.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="166">
+          <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elaticjobdemo/src/main/java/com/sougen/SimpleJobDemo.java">
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/common/EasyRedisMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firestorm.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/controller/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elaticjobdemo/pom.xml">
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/util/client/KafkaUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="45" />
+        <state relative-caret-position="238">
+          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dot/src/main/resources/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/entity/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/map/CustomerMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="57" lean-forward="true" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/reduce/CustomRedisSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flinkdemo/src/main/java/Data2Es.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-265">
+          <caret line="73" column="32" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flinkdemo/src/main/java/Data2EsUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flinkdemo2/src/main/java/KafkaExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="66" column="1" lean-forward="true" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flinkdemo/src/main/java/StreamJoinStaticData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flinkdemo/src/main/java/SinkUserPvToMySQL2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flinkdemo/src/main/java/KafkaExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-826">
+          <caret line="37" column="47" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flinkdemo/src/main/java/KafkaConsumerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="32" column="74" selection-start-line="32" selection-start-column="74" selection-end-line="32" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flinkdemo/src/main/java/FlinkSqlWindowsUserPv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-554">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flinkdemo/src/main/java/Double11Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dot/src/main/java/com/jsg/task/Double11CalcTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="44" column="77" lean-forward="true" selection-start-line="44" selection-start-column="77" selection-end-line="44" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elasticsearchdemo/src/main/java/EsCRUD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="232" column="80" lean-forward="true" selection-start-line="232" selection-start-column="80" selection-end-line="232" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

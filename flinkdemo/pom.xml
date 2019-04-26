@@ -11,7 +11,7 @@
     <parent>
         <groupId>org.apache.flink</groupId>
         <artifactId>flink-examples</artifactId>
-        <version>1.7.0</version>
+        <version>1.7.2</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
@@ -19,9 +19,10 @@
     <artifactId>flinkdemo</artifactId>
 
     <properties>
-        <flink.version>1.7.0</flink.version>
-        <scala.version>2.11.12</scala.version>
+        <flink.version>1.7.2</flink.version>
         <scala.binary.version>2.11</scala.binary.version>
+        <elasticsearch.version>6.3.0</elasticsearch.version>
+        <guava.version>25.1-jre</guava.version>
     </properties>
 
     <dependencies>
@@ -35,6 +36,40 @@
             <artifactId>flink-scala_2.11</artifactId>
             <version>${flink.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-connector-kafka-0.11_${scala.binary.version}</artifactId>
+            <version>${flink.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-streaming-scala_${scala.binary.version}</artifactId>
+            <version>${flink.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-streaming-java_${scala.binary.version}</artifactId>
+            <version>${flink.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-table_${scala.binary.version}</artifactId>
+            <version>${flink.version}</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.apache.flink/flink-connector-elasticsearch -->
+        <dependency>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-connector-elasticsearch6_${scala.binary.version}</artifactId>
+            <version>${flink.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.elasticsearch.client</groupId>
+            <artifactId>elasticsearch-rest-high-level-client</artifactId>
+            <version>${elasticsearch.version}</version>
+        </dependency>
+
         <dependency>
             <groupId>org.apache.hbase</groupId>
             <artifactId>hbase-client</artifactId>
@@ -52,21 +87,7 @@
             <version>1.2.47</version>
         </dependency>
 
-        <dependency>
-            <groupId>org.apache.flink</groupId>
-            <artifactId>flink-connector-kafka-0.11_${scala.binary.version}</artifactId>
-            <version>${flink.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.flink</groupId>
-            <artifactId>flink-streaming-scala_2.11</artifactId>
-            <version>${flink.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.flink</groupId>
-            <artifactId>flink-streaming-java_${scala.binary.version}</artifactId>
-            <version>${flink.version}</version>
-        </dependency>
+
 
         <dependency>
             <groupId>org.apache.lucene</groupId>

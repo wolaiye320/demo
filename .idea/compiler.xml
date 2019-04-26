@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="dot" />
-        <module name="canaldemo" />
         <module name="elaticjobdemo" />
+        <module name="elasticsearchdemo" />
         <module name="flinkdemo2" />
         <module name="flinkdemo" />
+        <module name="dot" />
+        <module name="canaldemo" />
       </profile>
     </annotationProcessing>
   </component>

@@ -86,7 +86,7 @@
             <scope>compile</scope>
         </dependency>
 
-         <!---spring-/-->
+        <!---spring-/-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-logging</artifactId>
@@ -153,10 +153,18 @@
             <artifactId>spring-boot-autoconfigure</artifactId>
             <version>2.1.3.RELEASE</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.janeluo/ikanalyzer -->
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-autoconfigure</artifactId>
-            <version>2.1.3.RELEASE</version>
+            <groupId>com.janeluo</groupId>
+            <artifactId>ikanalyzer</artifactId>
+            <version>2012_u6</version>
         </dependency>
+
+  <!--      <dependency>
+            <groupId>org.mongodb</groupId>
+            <artifactId>mongodb-driver</artifactId>
+            <version>3.0.1</version>
+            <scope>compile</scope>
+        </dependency>-->
     </dependencies>
 </project>
