@@ -12,6 +12,10 @@ public class Order {
     String itemId;
     String cityId;
 
+    public Order() {
+
+    }
+
     public Long getPrice() {
         return price;
     }

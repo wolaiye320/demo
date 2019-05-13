@@ -12,7 +12,7 @@ import org.apache.flink.streaming.api.TimeCharacteristic;
 import org.apache.flink.streaming.api.datastream.DataStreamSource;
 import org.apache.flink.streaming.api.datastream.SingleOutputStreamOperator;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
-import org.apache.flink.streaming.connectors.kafka.FlinkKafkaConsumer011;
+import org.apache.flink.streaming.connectors.kafka.FlinkKafkaConsumer;
 import org.apache.flink.streaming.connectors.redis.common.config.FlinkJedisPoolConfig;
 
 import java.util.Properties;
@@ -40,7 +40,7 @@ public class Double11CalcTask {
         env.getCheckpointConfig().setCheckpointingMode(CheckpointingMode.EXACTLY_ONCE);
 
         //创建kafak消费者，获取kafak中的数据
-        FlinkKafkaConsumer011<String> kafkaConsumer011 = new FlinkKafkaConsumer011<String>("double14", new SimpleStringSchema(), kafkaProp);
+        FlinkKafkaConsumer<String> kafkaConsumer011 = new FlinkKafkaConsumer<String>("double14", new SimpleStringSchema(), kafkaProp);
         //kafkaConsumer011.setStartFromEarliest();
         DataStreamSource<String> kafkaData = env.addSource(kafkaConsumer011);
 
