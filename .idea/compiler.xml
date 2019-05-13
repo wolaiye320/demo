@@ -10,10 +10,12 @@
         <module name="elasticsearchdemo" />
         <module name="flinkdemo2" />
         <module name="flinkdemo" />
-        <module name="dot" />
         <module name="canaldemo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dot" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
